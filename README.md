@@ -4,9 +4,10 @@
 ### Importing 'BeautifulSoup' class from 'bs4' library
 ### Importing 'requests' module for making http request
 
+```python
 from bs4 import BeautifulSoup
 import requests
-
+```
 
 ## Sends HTTP GET request to the specified URL
 ## Store the response from the server in 'page' variable
