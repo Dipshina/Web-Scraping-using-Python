@@ -1,4 +1,4 @@
-## Importing 'BeautifulSoup' class from 'bs4' library
+### Importing 'BeautifulSoup' class from 'bs4' library
 ## Importing 'requests' module for making http request
 
 from bs4 import BeautifulSoup
